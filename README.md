@@ -34,3 +34,6 @@ python train.py --epochs 50
 ```sh
 python generate_image.py 
 ```
+
+## Result
+![image](https://github.com/Yi-Jun-Wang/CCBDA-Diffusion-Generative-Model/blob/main/Result.png)
